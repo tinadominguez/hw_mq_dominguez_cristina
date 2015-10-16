@@ -1,0 +1,15 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #8ACBB5;   
+}
+
+@media (min-width: 715px) and (max-width: 960px) {
+    body{
+        background-color: #C9DAA4;   
+    }
+}
