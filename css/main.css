@@ -1,0 +1,27 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #8ACBB5;   
+}
+
+@media (min-width: 675px) {
+    body {
+        background-color: #C9DAA4;
+    }
+}
+
+@media (min-width: 999px) {
+    body {
+        background-color: #FFE792;
+    }
+}
+
+@media (min-width: 1280px) {
+    body {
+        background-color: #E6546B;
+    }
+}
